@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style
+        name="Theme.Kavya_kanaja_app"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="windowSplashScreenAnimatedIcon">
+            @drawable/kavya_logo
+        </item>
+
+        <item name="windowSplashScreenBackground">
+            #F7F1EB
+        </item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,724 @@
+[
+  {
+    "title": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಹುಲ್ಲು ಆಗು ಬೆಟ್ಟದ ಅಡಿಯಲಿ, ಮೆಲ್ಲನೆ ಬಂದೆರಗಿ\nಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯಲಿ, ಮಣ್ಣಾಗು ನಗುತ\nಬೆಲ್ಲದಂತಾಗು ಎಲ್ಲರೊಳು, ಒಳಗಡೆ ನಿನಗಾಗಿ\nಒಳ್ಳೆಯದಾಗಲಿ ಎಲೆ ಮಂಕುತಿಮ್ಮ.",
+    "bhavartha": "Be humble like grass, strong like stone during hardships, and sweet with everyone.",
+    "difficultWords": {
+      "ಹುಲ್ಲು": "Grass",
+      "ಮೆಲ್ಲನೆ": "Gently",
+      "ಮಣ್ಣಾಗು": "Become humble like soil",
+      "ಒಳ್ಳೆಯದಾಗಲಿ": "May good happen"
+    }
+  },
+
+  {
+    "title": "ಪ್ರಕೃತಿಯ ನಾದ",
+    "poet": "Kuvempu",
+    "originalText": "ಗಿರಿಯ ನೆರಳಲಿ ಗಾಳಿ ಮಾತಾಡಿತು\nವನದ ಮೌನವು ಕಾವ್ಯ ಹಾಡಿತು\nನಿಶಿಯ ಕತ್ತಲಲಿ ದೀಪದಂತೆ\nಭರವಸೆಯ ಕಿರಣ ಹೊಳೆದಿತು",
+    "bhavartha": "Nature silently teaches hope and peace even during darkness.",
+    "difficultWords": {
+      "ನಿಶಿ": "Night",
+      "ಕಿರಣ": "Ray of light",
+      "ಹೊಳೆದಿತು": "Shined"
+    }
+  },
+
+  {
+    "title": "ಜೀವನ ಸಾಗರ",
+    "poet": "D. R. Bendre",
+    "originalText": "ಜೀವನವೆಂಬ ಸಾಗರದಲಿ\nಅಲೆಗಳಂತೆ ದಿನಗಳು ಬರುವುದು\nಕಷ್ಟದ ಕಲ್ಲು ತಾಗಿದರೂ\nನೌಕೆ ಮುಂದೆ ಸಾಗುವುದು",
+    "bhavartha": "Life moves forward despite hardships.",
+    "difficultWords": {
+      "ಸಾಗರ": "Ocean",
+      "ನೌಕೆ": "Boat",
+      "ಅಲೆಗಳು": "Waves"
+    }
+  },
+
+  {
+    "title": "ಕನ್ನಡ ತಾಯಿ",
+    "poet": "Kuvempu",
+    "originalText": "ಕನ್ನಡ ನಾಡಿನ ಮಣ್ಣಿನ ಸುವಾಸನೆ\nಸಾಹಿತ್ಯದ ಗಾನ ಮನ ಸೆಳೆಯಿತು\nಭಾಷೆಯ ಭಕ್ತಿ ಹೃದಯ ತುಂಬಿತು\nಸಂಸ್ಕೃತಿಯ ದೀಪ ಬೆಳಗಿತು",
+    "bhavartha": "Kannada language and culture bring pride and devotion.",
+    "difficultWords": {
+      "ಸುವಾಸನೆ": "Fragrance",
+      "ಸಂಸ್ಕೃತಿ": "Culture",
+      "ಭಕ್ತಿ": "Devotion"
+    }
+  },
+
+  {
+    "title": "ಭರವಸೆಯ ದೀಪ",
+    "poet": "Kambara",
+    "originalText": "ಕತ್ತಲಿನ ನಡುವೆ ದೀಪ ಹೊತ್ತಿತು\nಮನದ ಮೌನದಲ್ಲಿ ಆಶೆ ಮೂಡಿತು\nಕಾಲದ ಹೆಜ್ಜೆ ದೂರ ನಡೆದರೂ\nಭರವಸೆಯ ದಾರಿ ತಪ್ಪಲಿಲ್ಲ",
+    "bhavartha": "Hope remains even during difficult times.",
+    "difficultWords": {
+      "ಕತ್ತಲು": "Darkness",
+      "ಹೆಜ್ಜೆ": "Step",
+      "ಭರವಸೆ": "Hope"
+    }
+  },
+
+  {
+    "title": "ನಿಸರ್ಗ ಗೀತೆ",
+    "poet": "Kuvempu",
+    "originalText": "ಹಕ್ಕಿಯ ಹಾಡಲಿ ಬೆಳಗಿನ ರಾಗ\nಮರದ ನೆರಳಲಿ ಮೌನದ ಯೋಗ\nನದಿಯ ಹರಿವಲಿ ಜೀವನ ಸತ್ಯ\nಪ್ರಕೃತಿಯೊಳಗೆ ಪರಮ ಪಾಠ",
+    "bhavartha": "Nature itself teaches the truths of life.",
+    "difficultWords": {
+      "ರಾಗ": "Melody",
+      "ಯೋಗ": "Peaceful union",
+      "ಪರಮ": "Supreme"
+    }
+  },
+
+  {
+    "title": "ಕಾಲಚಕ್ರ",
+    "poet": "Girish Karnad",
+    "originalText": "ಕಾಲದ ಚಕ್ರವು ಸುತ್ತುತಿರಲು\nಮಾನವನ ಕನಸು ಬದಲಾಗುವುದು\nಅಹಂಕಾರದ ಅರಮನೆಯೊಳಗೆ\nಸತ್ಯದ ನಾದ ಕಳೆದುಹೋಯಿತು",
+    "bhavartha": "Time changes human desires and ego hides truth.",
+    "difficultWords": {
+      "ಕಾಲಚಕ್ರ": "Wheel of time",
+      "ಅಹಂಕಾರ": "Ego",
+      "ನಾದ": "Sound"
+    }
+  },
+
+  {
+    "title": "ಮೌನ ಕಾವ್ಯ",
+    "poet": "D. R. Bendre",
+    "originalText": "ಮನದಾಳದ ಮೌನ ಮಾತಾಗಿ\nಅಕ್ಷರಗಳಲಿ ಕಾವ್ಯ ಮೂಡಿತು\nಭಾವನೆಗಳ ಹೊನಲು ಹರಿದು\nಸಾಹಿತ್ಯದ ಸಾಗರ ತುಂಬಿತು",
+    "bhavartha": "Poetry is born from deep inner emotions.",
+    "difficultWords": {
+      "ಮನದಾಳ": "Depth of heart",
+      "ಹೊನಲು": "Flow",
+      "ಸಾಹಿತ್ಯ": "Literature"
+    }
+  },
+
+  {
+    "title": "ಆಶೆಯ ಬೆಳಕು",
+    "poet": "Kuvempu",
+    "originalText": "ಬೆಳಗಿನ ಕಿರಣ ಕತ್ತಲ ತೊಡೆದು\nಹೊಸ ದಿನದ ದಾರಿ ತೆರೆದಿತು\nನೋವಿನ ಮಳೆಯ ನಡುವೆ ಕೂಡ\nಆಶೆಯ ಹೂವು ಅರಳಿತು",
+    "bhavartha": "Hope blossoms even after pain.",
+    "difficultWords": {
+      "ಕಿರಣ": "Ray",
+      "ತೊಡೆದು": "Removing",
+      "ಅರಳಿತು": "Bloomed"
+    }
+  },
+
+  {
+    "title": "ಮಣ್ಣಿನ ಸತ್ಯ",
+    "poet": "Kambara",
+    "originalText": "ಮಣ್ಣಿನೊಳಗಿದೆ ಜೀವದ ನಾದ\nಬೀಜದೊಳಗಿದೆ ಭವಿಷ್ಯದ ದೀಪ\nನಿಸರ್ಗ ಕಲಿಸಿದ ಪಾಠಗಳಲಿ\nಮಾನವ ಕಂಡನು ತನ್ನ ರೂಪ",
+    "bhavartha": "Nature holds the secret of life and future.",
+    "difficultWords": {
+      "ಬೀಜ": "Seed",
+      "ಭವಿಷ್ಯ": "Future",
+      "ರೂಪ": "Form"
+    }
+  },
+
+  {
+    "title": "ಅರಿವಿನ ದೀಪ",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಅರಿವಿನ ದೀಪ ಬೆಳಗದ ಮನದಿ\nಅಜ್ಞಾನದ ಕತ್ತಲು ತುಂಬುವುದು\nಸತ್ಯದ ಹಾದಿಯ ಅರಿವಿಲ್ಲದೆ\nಜೀವನ ವ್ಯರ್ಥವಾಗುವುದು",
+    "bhavartha": "Knowledge removes ignorance and gives purpose to life.",
+    "difficultWords": {
+      "ಅಜ್ಞಾನ": "Ignorance",
+      "ವ್ಯರ್ಥ": "Meaningless",
+      "ಹಾದಿ": "Path"
+    }
+  },
+
+  {
+    "title": "ವನಮಾಲೆ",
+    "poet": "Kuvempu",
+    "originalText": "ವನದ ಮೌನದ ಮಧ್ಯದಲಿ\nಹಕ್ಕಿಯ ಗಾಯನ ಮೊಳಗಿತು\nಮರದ ನೆರಳಿನ ತಂಪಿನಲಿ\nಮನದ ದಾಹವು ತಣಿಯಿತು",
+    "bhavartha": "Nature calms the restless human heart.",
+    "difficultWords": {
+      "ಮೊಳಗಿತು": "Echoed",
+      "ದಾಹ": "Thirst",
+      "ತಣಿಯಿತು": "Cooled down"
+    }
+  },
+
+  {
+    "title": "ಕಾಲದ ನಡೆ",
+    "poet": "Bendre",
+    "originalText": "ಕಾಲದ ಹೆಜ್ಜೆ ನಿಲ್ಲದು ಎಂದಿಗೂ\nಮಾನವನ ಕನಸು ಉಳಿಯದು ಸದಾ\nಹೊಸ ಬೆಳಕಿನ ಹುಡುಕಾಟದಲಿ\nಜೀವನ ಸಾಗುತಲೇ ಇರುವುದು",
+    "bhavartha": "Time never stops and life keeps moving.",
+    "difficultWords": {
+      "ಹೆಜ್ಜೆ": "Step",
+      "ಹುಡುಕಾಟ": "Search",
+      "ಉಳಿಯದು": "Will not remain"
+    }
+  },
+
+  {
+    "title": "ಸಾಗರ ಗೀತೆ",
+    "poet": "Kambara",
+    "originalText": "ಸಾಗರದ ಅಲೆಗಳ ಗುನುಗುತಲಿ\nಜೀವನದ ಹಾಡು ಕೇಳಿಬಂತು\nಆಳದ ಮರ್ಮದ ನಿಶ್ಶಬ್ದದಲಿ\nಸತ್ಯದ ನಾದ ಮೂಡಿಬಂತು",
+    "bhavartha": "The ocean reflects the hidden truths of life.",
+    "difficultWords": {
+      "ಗುನುಗು": "Murmur",
+      "ಮರ್ಮ": "Secret meaning",
+      "ನಿಶ್ಶಬ್ದ": "Silence"
+    }
+  },
+
+  {
+    "title": "ಮನದ ಕನ್ನಡ",
+    "poet": "Kuvempu",
+    "originalText": "ಮನದ ಕನ್ನಡದ ಕನ್ನಾಡಿಯಲ್ಲಿ\nಭಾವಗಳ ಚಿತ್ರ ಮೂಡಿಬಂತು\nಪ್ರೀತಿಯ ಮಳೆಯ ಹನಿಗಳಲಿ\nಜೀವನದ ತೋಟ ಅರಳಿಬಂತು",
+    "bhavartha": "Love and emotions beautify life.",
+    "difficultWords": {
+      "ಕನ್ನಾಡಿ": "Mirror",
+      "ಭಾವ": "Emotion",
+      "ಅರಳಿಬಂತು": "Bloomed"
+    }
+  },
+
+  {
+    "title": "ಅಲೆಗಳ ಹಾಡು",
+    "poet": "Bendre",
+    "originalText": "ನದಿಯ ಅಲೆಗಳ ಸಂಗೀತದಲಿ\nಪ್ರಕೃತಿಯ ರಾಗ ಹರಡಿತು\nಗಾಳಿಯ ಮೃದುವಾದ ಸ್ಪರ್ಶದಲಿ\nಮನದ ಮೌನವು ಕರಗಿತು",
+    "bhavartha": "Nature’s beauty softens the human mind.",
+    "difficultWords": {
+      "ರಾಗ": "Melody",
+      "ಸ್ಪರ್ಶ": "Touch",
+      "ಕರಗಿತು": "Melted"
+    }
+  },
+
+  {
+    "title": "ನೋವಿನ ದಾರಿ",
+    "poet": "Ananthamurthy",
+    "originalText": "ನೋವಿನ ದಾರಿಯ ನೆರಳಿನಡಿ\nಮಾನವ ಮನವು ಗಟ್ಟಿಯಾಗುವುದು\nಕಷ್ಟದ ಕಲ್ಲಿನ ಹೊಡೆತದಲಿ\nಜೀವನದ ಅರ್ಥ ಬೆಳೆಯುವುದು",
+    "bhavartha": "Hardships strengthen people and teach life lessons.",
+    "difficultWords": {
+      "ನೆರಳು": "Shadow",
+      "ಗಟ್ಟಿಯಾಗು": "Become strong",
+      "ಅರ್ಥ": "Meaning"
+    }
+  },
+
+  {
+    "title": "ಮಳೆಯ ಕನಸು",
+    "poet": "Kuvempu",
+    "originalText": "ಮಳೆಯ ಹನಿಯಲಿ ನೆನಪಿನ ನಾದ\nಮಣ್ಣಿನ ಪರಿಮಳ ಹರಡಿತು\nಬಾಲ್ಯದ ದಿನದ ಕನಸುಗಳೆಲ್ಲ\nಮನದೊಳಗಿಂದು ಮೂಡಿಬಂತು",
+    "bhavartha": "Rain revives childhood memories.",
+    "difficultWords": {
+      "ಪರಿಮಳ": "Fragrance",
+      "ನೆನಪು": "Memory",
+      "ಮೂಡಿಬಂತು": "Appeared"
+    }
+  },
+
+  {
+    "title": "ಬೆಳಕಿನ ಪಯಣ",
+    "poet": "Karnad",
+    "originalText": "ಕತ್ತಲ ದಾರಿಯ ಮಧ್ಯದಲಿ\nಒಂದು ಕಿರಣ ಬೆಳಗಿಬಂತು\nಭರವಸೆಯ ಚಿಕ್ಕ ದೀಪದಂತೆ\nಜೀವನ ಮತ್ತೆ ನಗುತಿಬಂತು",
+    "bhavartha": "Even a small hope can brighten life.",
+    "difficultWords": {
+      "ಕಿರಣ": "Ray",
+      "ಭರವಸೆ": "Hope",
+      "ನಗುತಿಬಂತು": "Smiled again"
+    }
+  },
+
+  {
+    "title": "ಸಾಹಿತ್ಯ ಸೌರಭ",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಅಕ್ಷರಗಳ ಅಂಗಳದೊಳಗೆ\nಸಾಹಿತ್ಯದ ಹೂವು ಅರಳಿತು\nಭಾವನೆಗಳ ಮಧುರ ಗಾನವು\nಮಾನವ ಮನದಲಿ ಮೊಳಗಿತು",
+    "bhavartha": "Literature blossoms from human emotions.",
+    "difficultWords": {
+      "ಅಂಗಳ": "Courtyard",
+      "ಸೌರಭ": "Fragrance",
+      "ಮೊಳಗಿತು": "Echoed"
+    }
+  },
+
+  {
+    "title": "ಪ್ರಕೃತಿಯ ಮರ್ಮ",
+    "poet": "Kambara",
+    "originalText": "ಗಿರಿಯ ತುದಿಯ ಮೌನದಲಿ\nಪ್ರಕೃತಿಯ ಮರ್ಮ ಅಡಗಿತು\nಮಾನವ ಹೃದಯದ ಪ್ರಶ್ನೆಗಳಲಿ\nಸತ್ಯದ ದೀಪ ಬೆಳಗಿತು",
+    "bhavartha": "Nature silently contains deep truths.",
+    "difficultWords": {
+      "ತುದಿ": "Peak",
+      "ಅಡಗಿತು": "Hidden",
+      "ಪ್ರಶ್ನೆ": "Question"
+    }
+  },
+
+  {
+    "title": "ಹೃದಯ ಗೀತೆ",
+    "poet": "Bendre",
+    "originalText": "ಹೃದಯದ ಮೌನದ ತಂತಿಯಲಿ\nಪ್ರೀತಿಯ ರಾಗ ಮೂಡಿಬಂತು\nಕಣ್ಣಿನ ಕನಸಿನ ಬೆಳಕಿನಲಿ\nಜೀವನದ ಹಾಡು ಹರಡಿಬಂತು",
+    "bhavartha": "Love creates music within the heart.",
+    "difficultWords": {
+      "ತಂತಿ": "String",
+      "ರಾಗ": "Melody",
+      "ಹರಡಿಬಂತು": "Spread"
+    }
+  },
+
+  {
+    "title": "ಆಕಾಶದ ಹಾದಿ",
+    "poet": "Kuvempu",
+    "originalText": "ಆಕಾಶದ ದಾರಿಯ ದೂರದಲಿ\nಹಕ್ಕಿಯ ಕನಸು ಹಾರಿಬಂತು\nಸ್ವಾತಂತ್ರ್ಯದ ಹಾಡಿನ ಮಧುರತೆ\nಮನದೊಳಗೆ ತುಂಬಿಬಂತು",
+    "bhavartha": "Dreams seek freedom like birds in the sky.",
+    "difficultWords": {
+      "ಸ್ವಾತಂತ್ರ್ಯ": "Freedom",
+      "ಮಧುರತೆ": "Sweetness",
+      "ಹಾರಿಬಂತು": "Flew"
+    }
+  },
+
+  {
+    "title": "ಕನಸಿನ ಬೆಳಕು",
+    "poet": "Karnad",
+    "originalText": "ಕನಸಿನ ಹಾದಿಯ ಮೌನದಲಿ\nಆಶೆಯ ಹೂವು ಅರಳಿತು\nಕತ್ತಲ ಜೀವನದ ನಡುವೆ ಕೂಡ\nಹೊಸ ಬೆಳಕು ಮೂಡಿಬಂತು",
+    "bhavartha": "Dreams and hope guide people through darkness.",
+    "difficultWords": {
+      "ಹಾದಿ": "Path",
+      "ಅರಳಿತು": "Bloomed",
+      "ಮಧ್ಯೆ": "Between"
+    }
+  },
+
+  {
+    "title": "ಮನದ ಸಾಗರ",
+    "poet": "Ananthamurthy",
+    "originalText": "ಮನದ ಸಾಗರದ ಆಳದಲಿ\nಮೌನದ ಮುತ್ತು ಅಡಗಿದೆ\nಜೀವನದ ಪ್ರಶ್ನೆಯ ನಡುವೆಯೂ\nಸತ್ಯದ ದಾರಿ ಉಳಿದಿದೆ",
+    "bhavartha": "Deep truths remain hidden within the human heart.",
+    "difficultWords": {
+      "ಆಳ": "Depth",
+      "ಮುತ್ತು": "Pearl",
+      "ಉಳಿದಿದೆ": "Remains"
+    }
+  },
+
+  {
+    "title": "ಚಂದ್ರನ ಚೆಲುವು",
+    "poet": "Kuvempu",
+    "originalText": "ಚಂದ್ರನ ಚೆಂಬೆಳಕಿನ ಹಾದಿಯಲಿ\nನಿಶಿಯ ಮೌನ ಹರಡಿಬಂತು\nಮನದ ಕನಸಿನ ತೋಟದಲಿ\nಭಾವದ ಹೂವು ಅರಳಿಬಂತು",
+    "bhavartha": "Moonlight awakens emotions and dreams.",
+    "difficultWords": {
+      "ಚೆಂಬೆಳಕು": "Soft moonlight",
+      "ನಿಶಿ": "Night",
+      "ಭಾವ": "Emotion"
+    }
+  },
+
+  {
+    "title": "ಜೀವನ ದೀಪ",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಗಾಳಿಯ ಹೊಡೆತ ಹೆಚ್ಚಾದರೂ\nದೀಪದ ಬೆಳಕು ನಂದದಿರಲಿ\nಕಷ್ಟದ ದಾರಿಯ ಮಧ್ಯೆಯೂ\nಭರವಸೆಯ ನಗು ಮರೆಯದಿರಲಿ",
+    "bhavartha": "Never lose hope despite hardships.",
+    "difficultWords": {
+      "ಹೊಡೆತ": "Strike",
+      "ನಂದ": "Extinguish",
+      "ಮರೆಯದಿರಲಿ": "Do not forget"
+    }
+  },
+
+  {
+    "title": "ಹಕ್ಕಿಯ ಹಾರಾಟ",
+    "poet": "Bendre",
+    "originalText": "ಆಕಾಶದ ಅಗಾಧ ದಾರಿಯಲಿ\nಹಕ್ಕಿಯ ರೆಕ್ಕೆ ಚಾಚಿಬಂತು\nಸ್ವಾತಂತ್ರ್ಯದ ಹಾಡಿನ ನಡುವೆ\nಮನದ ಆಸೆ ಬೆಳಗಿಬಂತು",
+    "bhavartha": "Freedom inspires dreams and aspirations.",
+    "difficultWords": {
+      "ಅಗಾಧ": "Vast",
+      "ರೆಕ್ಕೆ": "Wing",
+      "ಆಸೆ": "Desire"
+    }
+  },
+
+  {
+    "title": "ಮೌನದ ಮಳೆ",
+    "poet": "Kambara",
+    "originalText": "ಮಳೆಯ ಹನಿಯ ಮೌನದಲಿ\nಮಣ್ಣಿನ ಪರಿಮಳ ಹರಡಿತು\nಮನದ ನೆನಪಿನ ತಂತಿಗಳಲಿ\nಬಾಲ್ಯದ ಗಾನ ಮೊಳಗಿತು",
+    "bhavartha": "Rain revives childhood memories and emotions.",
+    "difficultWords": {
+      "ಪರಿಮಳ": "Fragrance",
+      "ತಂತಿ": "String",
+      "ಮೊಳಗಿತು": "Echoed"
+    }
+  },
+
+  {
+    "title": "ಸತ್ಯದ ಹಾದಿ",
+    "poet": "Ananthamurthy",
+    "originalText": "ಸುಳ್ಳಿನ ನೆರಳಿನ ಮಧ್ಯೆಯೂ\nಸತ್ಯದ ದೀಪ ಹೊಳೆಯಬೇಕು\nಅಹಂಕಾರದ ಕತ್ತಲೊಳಗಿಂದ\nಮಾನವ ಮನವು ಹೊರಬರಬೇಕು",
+    "bhavartha": "Truth must shine even amidst lies and ego.",
+    "difficultWords": {
+      "ನೆರಳು": "Shadow",
+      "ಅಹಂಕಾರ": "Ego",
+      "ಹೊರಬರು": "Come out"
+    }
+  },
+
+  {
+    "title": "ನದಿಯ ನಾದ",
+    "poet": "Kuvempu",
+    "originalText": "ನದಿಯ ಹರಿವಿನ ರಾಗದಲಿ\nಪ್ರಕೃತಿಯ ಹಾಡು ಕೇಳಿಬಂತು\nಗಿರಿಯ ತುದಿಯ ಮೌನದಲಿ\nಜೀವನದ ಅರ್ಥ ಬೆಳಗಿಬಂತು",
+    "bhavartha": "Nature reveals the meaning of life.",
+    "difficultWords": {
+      "ರಾಗ": "Melody",
+      "ತುದಿ": "Peak",
+      "ಅರ್ಥ": "Meaning"
+    }
+  },
+
+  {
+    "title": "ಮನದ ಅಕ್ಷರ",
+    "poet": "Bendre",
+    "originalText": "ಮನದಾಳದ ಮೌನ ಮಾತು\nಅಕ್ಷರಗಳ ರೂಪ ತಳೆದಿತು\nಭಾವನೆಗಳ ಸಾಗರದಲಿ\nಕಾವ್ಯದ ಹೂವು ಅರಳಿತು",
+    "bhavartha": "Poetry is formed from deep emotions.",
+    "difficultWords": {
+      "ತಳೆದಿತು": "Took shape",
+      "ಸಾಗರ": "Ocean",
+      "ಅರಳಿತು": "Bloomed"
+    }
+  },
+
+  {
+    "title": "ಕಾಲದ ನೆರಳು",
+    "poet": "Karnad",
+    "originalText": "ಕಾಲದ ಕರಾಳ ಹೆಜ್ಜೆಯಲಿ\nಯುಗಗಳ ಕನಸು ಕುಸಿದವು\nಆದರೂ ಆಶೆಯ ಬೆಳಕಿನಲಿ\nಹೊಸ ಬದುಕು ಮೂಡಿಬಂತು",
+    "bhavartha": "Even after destruction, hope creates new beginnings.",
+    "difficultWords": {
+      "ಕರಾಳ": "Fearful",
+      "ಕುಸಿದವು": "Collapsed",
+      "ಯುಗ": "Era"
+    }
+  },
+
+  {
+    "title": "ಹೃದಯದ ದಾರಿ",
+    "poet": "Kambara",
+    "originalText": "ಹೃದಯದ ಮೌನದ ದಾರಿಯಲಿ\nಪ್ರೀತಿಯ ಗಾನ ಹರಡಿಬಂತು\nಜೀವನದ ಕಠಿಣ ಹೊಡೆತಗಳಲಿ\nಮಾನವತ್ವ ಉಳಿದುಕೊಂಡಿತು",
+    "bhavartha": "Humanity survives through love and compassion.",
+    "difficultWords": {
+      "ಹೊಡೆತ": "Blow",
+      "ಮಾನವತ್ವ": "Humanity",
+      "ಉಳಿದುಕೊಂಡಿತು": "Remained"
+    }
+  },
+
+  {
+    "title": "ಪ್ರಭಾತ ಗೀತೆ",
+    "poet": "Kuvempu",
+    "originalText": "ಪ್ರಭಾತದ ಹೊನಲ ಬೆಳಕಿನಲಿ\nಹೊಸ ದಿನದ ನಗು ಮೂಡಿತು\nಹಕ್ಕಿಗಳ ಗಾಯನದ ನಡುವೆ\nಜೀವನದ ಗಾನ ಕೇಳಿಬಂತು",
+    "bhavartha": "Morning brings hope and freshness to life.",
+    "difficultWords": {
+      "ಪ್ರಭಾತ": "Dawn",
+      "ಹೊನಲು": "Flowing light",
+      "ಗಾಯನ": "Singing"
+    }
+  },
+
+  {
+    "title": "ಕನಸಿನ ರೆಕ್ಕೆ",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಕನಸಿನ ರೆಕ್ಕೆ ಚಾಚಿದಾಗ\nಆಕಾಶವೂ ಹತ್ತಿರವಾಗುವುದು\nಭಯದ ಕತ್ತಲು ಕಳೆಯುವಾಗ\nಜೀವನವೂ ಸುಂದರವಾಗುವುದು",
+    "bhavartha": "Dreams become reality when fear is overcome.",
+    "difficultWords": {
+      "ರೆಕ್ಕೆ": "Wing",
+      "ಕಳೆಯು": "Remove",
+      "ಸುಂದರ": "Beautiful"
+    }
+  },
+
+  {
+    "title": "ಸಾಹಿತ್ಯದ ಸಾಗರ",
+    "poet": "Bendre",
+    "originalText": "ಅಕ್ಷರಗಳ ಸಾಗರದೊಳಗೆ\nಭಾವನೆಯ ಮುತ್ತು ಅಡಗಿದೆ\nಕಾವ್ಯದ ಮಧುರ ಗಾನದಲ್ಲಿ\nಮಾನವ ಹೃದಯ ತೇಲುತ್ತಿದೆ",
+    "bhavartha": "Literature holds emotional treasures.",
+    "difficultWords": {
+      "ಮುತ್ತು": "Pearl",
+      "ಮಧುರ": "Sweet",
+      "ತೇಲುತ್ತಿದೆ": "Floating"
+    }
+  },
+
+  {
+    "title": "ಮರದ ನೆರಳು",
+    "poet": "Kambara",
+    "originalText": "ಮರದ ನೆರಳಿನ ತಂಪಿನಲಿ\nಬಾಳ ದಣಿವು ಕರಗಿಬಂತು\nಪ್ರಕೃತಿಯ ಮೌನದ ಮಾತಿನಲಿ\nಮನದ ಶಾಂತಿ ಮೂಡಿಬಂತು",
+    "bhavartha": "Nature gives peace to a tired mind.",
+    "difficultWords": {
+      "ದಣಿವು": "Tiredness",
+      "ಶಾಂತಿ": "Peace",
+      "ಕರಗಿಬಂತು": "Melted away"
+    }
+  },
+
+  {
+    "title": "ಆತ್ಮದ ನಾದ",
+    "poet": "Ananthamurthy",
+    "originalText": "ಆತ್ಮದ ಮೌನದ ಆಳದಲಿ\nಸತ್ಯದ ನಾದ ಕೇಳಿಬಂತು\nಅಹಂಕಾರದ ಅರಣ್ಯದೊಳಗೆ\nಮಾನವನು ತನ್ನನು ಕಳೆದುಕೊಂಡ",
+    "bhavartha": "Ego causes humans to lose their true selves.",
+    "difficultWords": {
+      "ಆತ್ಮ": "Soul",
+      "ಅರಣ್ಯ": "Forest",
+      "ಕಳೆದುಕೊಂಡ": "Lost"
+    }
+  },
+
+  {
+    "title": "ಬೆಳಕಿನ ಕನಸು",
+    "poet": "Kuvempu",
+    "originalText": "ಕತ್ತಲ ದಾರಿಯ ನಡುವೆ ಕೂಡ\nಬೆಳಕಿನ ಕನಸು ಉಳಿಯಬೇಕು\nನೋವಿನ ಮಳೆಯ ಹೊಡೆತದಲ್ಲೂ\nಆಶೆಯ ಹೂವು ಅರಳಬೇಕು",
+    "bhavartha": "Hope must survive through struggles.",
+    "difficultWords": {
+      "ಹೊಡೆತ": "Strike",
+      "ಉಳಿಯು": "Remain",
+      "ಅರಳಬೇಕು": "Must bloom"
+    }
+  },
+
+  {
+    "title": "ಭಾವದ ಹೊನಲು",
+    "poet": "Bendre",
+    "originalText": "ಭಾವದ ಹೊನಲ ಹರಿದಾಗ\nಮನದ ಕಾವ್ಯ ಮೂಡಿಬಂತು\nಅಕ್ಷರಗಳ ಮೌನದೊಳಗೆ\nಜೀವನದ ನಾದ ಕೇಳಿಬಂತು",
+    "bhavartha": "Poetry emerges from flowing emotions.",
+    "difficultWords": {
+      "ಹೊನಲು": "Flow",
+      "ನಾದ": "Sound",
+      "ಮೌನ": "Silence"
+    }
+  },
+
+  {
+    "title": "ಪ್ರಕೃತಿಯ ಪಾಠ",
+    "poet": "Kuvempu",
+    "originalText": "ಗಾಳಿಯ ಮಾತಿನ ಮೃದುವಿನಲಿ\nಪ್ರಕೃತಿಯ ಪಾಠ ಅಡಗಿದೆ\nಮರದ ನೆರಳಿನ ತಂಪಿನಲಿ\nಜೀವನದ ಶಾಂತಿ ಉಳಿದಿದೆ",
+    "bhavartha": "Nature silently teaches peace and wisdom.",
+    "difficultWords": {
+      "ಮೃದುವು": "Softness",
+      "ಅಡಗಿದೆ": "Hidden",
+      "ಶಾಂತಿ": "Peace"
+    }
+  },
+
+  {
+    "title": "ಕನಸಿನ ಸಾಗರ",
+    "poet": "Karnad",
+    "originalText": "ಕನಸಿನ ಸಾಗರದ ಆಳದಲಿ\nಆಶೆಯ ಮುತ್ತು ಅಡಗಿದೆ\nಭಯದ ಅಲೆಗಳ ನಡುವೆಯೂ\nಮಾನವನು ಮುಂದೆ ಸಾಗಬೇಕು",
+    "bhavartha": "Dreams and hope help humans move forward.",
+    "difficultWords": {
+      "ಆಳ": "Depth",
+      "ಮುತ್ತು": "Pearl",
+      "ಅಲೆ": "Wave"
+    }
+  },
+
+  {
+    "title": "ನಿಶಿಯ ಗಾನ",
+    "poet": "Kambara",
+    "originalText": "ನಿಶಿಯ ಮೌನದ ಹೊತ್ತಿನಲ್ಲಿ\nಚಂದ್ರನ ಗಾನ ಹರಡಿಬಂತು\nಮನದ ಒಂಟಿತನದ ನಡುವೆ\nಭಾವದ ದೀಪ ಬೆಳಗಿಬಂತು",
+    "bhavartha": "Moonlight comforts loneliness.",
+    "difficultWords": {
+      "ನಿಶಿ": "Night",
+      "ಒಂಟಿತನ": "Loneliness",
+      "ಹೊತ್ತು": "Time"
+    }
+  },
+
+  {
+    "title": "ಅರಿವಿನ ಬೆಳಕು",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಅರಿವಿನ ಬೆಳಕು ಮೂಡಿದಾಗ\nಅಜ್ಞಾನದ ಕತ್ತಲು ಕರಗುವುದು\nಸತ್ಯದ ದಾರಿಯ ಅರಿತವನು\nಜೀವನದ ಮೌಲ್ಯ ತಿಳಿಯುವುದು",
+    "bhavartha": "Knowledge removes ignorance.",
+    "difficultWords": {
+      "ಅಜ್ಞಾನ": "Ignorance",
+      "ಮೌಲ್ಯ": "Value",
+      "ಕರಗುವುದು": "Melt away"
+    }
+  },
+
+  {
+    "title": "ಹೃದಯದ ಕಾವ್ಯ",
+    "poet": "Bendre",
+    "originalText": "ಹೃದಯದ ತಂತಿಯ ಸ್ಪಂದನದಿ\nಕಾವ್ಯದ ರಾಗ ಮೊಳಗಿಬಂತು\nಮನದ ನೋವಿನ ಮಳೆಯೊಳಗೆ\nಭರವಸೆಯ ಹೂವು ಅರಳಿಬಂತು",
+    "bhavartha": "Poetry and hope arise from pain.",
+    "difficultWords": {
+      "ಸ್ಪಂದನ": "Heartbeat",
+      "ರಾಗ": "Melody",
+      "ಅರಳಿಬಂತು": "Bloomed"
+    }
+  },
+
+  {
+    "title": "ಗಿರಿಯ ಮೌನ",
+    "poet": "Kuvempu",
+    "originalText": "ಗಿರಿಯ ತುದಿಯ ಮೌನದಲಿ\nಪ್ರಕೃತಿಯ ಸತ್ಯ ಅಡಗಿದೆ\nಮಾನವ ಮನದ ಪ್ರಶ್ನೆಗಳಿಗೂ\nಅಲ್ಲಿಯೇ ಉತ್ತರ ಉಳಿದಿದೆ",
+    "bhavartha": "Nature contains answers to human questions.",
+    "difficultWords": {
+      "ತುದಿ": "Peak",
+      "ಉತ್ತರ": "Answer",
+      "ಅಡಗಿದೆ": "Hidden"
+    }
+  },
+
+  {
+    "title": "ಜೀವನ ಗೀತೆ",
+    "poet": "Kambara",
+    "originalText": "ಜೀವನದ ಗಾಯನ ಕೇಳಿದಾಗ\nನೋವಿನ ಅರ್ಥ ತಿಳಿಯುವುದು\nಸುಖ ದುಃಖಗಳ ನಡುವೆಯೇ\nಮಾನವತ್ವ ಬೆಳೆಯುವುದು",
+    "bhavartha": "Humanity grows through both joy and pain.",
+    "difficultWords": {
+      "ಗಾಯನ": "Song",
+      "ದುಃಖ": "Sorrow",
+      "ಮಾನವತ್ವ": "Humanity"
+    }
+  },
+
+  {
+    "title": "ಬೆಳಗಿನ ರಾಗ",
+    "poet": "Kuvempu",
+    "originalText": "ಬೆಳಗಿನ ರಾಗ ಹರಿದಾಗ\nಹಕ್ಕಿಗಳ ಗಾನ ಕೇಳಿಬಂತು\nಹೊಸ ದಿನದ ಬೆಳಕಿನಲಿ\nಮನದ ಆಶೆ ಮೂಡಿಬಂತು",
+    "bhavartha": "Morning inspires fresh hope.",
+    "difficultWords": {
+      "ರಾಗ": "Melody",
+      "ಆಶೆ": "Hope",
+      "ಗಾನ": "Song"
+    }
+  },
+
+  {
+    "title": "ಸತ್ಯದ ನದಿ",
+    "poet": "Ananthamurthy",
+    "originalText": "ಸತ್ಯದ ನದಿಯ ಹರಿವಿನಲಿ\nಮಾನವ ಮನವು ಶುದ್ಧವಾಗು\nಸುಳ್ಳಿನ ಮಣ್ಣಿನ ಕೋಟೆಯು\nಕಾಲದ ಮಳೆಯಲ್ಲಿ ಕರಗುವುದು",
+    "bhavartha": "Truth lasts while lies fade away.",
+    "difficultWords": {
+      "ಶುದ್ಧ": "Pure",
+      "ಕೋಟೆ": "Fort",
+      "ಕರಗುವುದು": "Melt away"
+    }
+  },
+
+  {
+    "title": "ಮೌನದ ದೀಪ",
+    "poet": "Kuvempu",
+    "originalText": "ಮೌನದ ದೀಪ ಬೆಳಗಿದಾಗ\nಮನದ ಕತ್ತಲು ಕರಗುವುದು\nಭಾವನೆಯ ಹಾದಿಯೊಳಗೆ\nಜೀವನ ಸತ್ಯ ಅರಳುವುದು",
+    "bhavartha": "Inner silence reveals truth and clarity.",
+    "difficultWords": {
+      "ಮೌನ": "Silence",
+      "ಕರಗುವುದು": "Melt away",
+      "ಅರಳುವುದು": "Bloom"
+    }
+  },
+
+  {
+    "title": "ಅಲೆಗಳ ಮಾತು",
+    "poet": "Bendre",
+    "originalText": "ಸಾಗರದ ಅಲೆಗಳ ನಾದದಲಿ\nಕಾಲದ ಕಥೆ ಕೇಳಿಬಂತು\nಮನುಜ ಮನದ ನೋವಿನ ನಡುವೆ\nಭರವಸೆಯ ಹಾಡು ಮೂಡಿಬಂತು",
+    "bhavartha": "Hope survives amidst pain and time.",
+    "difficultWords": {
+      "ನಾದ": "Sound",
+      "ಮನುಜ": "Human",
+      "ಸಾಗರ": "Ocean"
+    }
+  },
+
+  {
+    "title": "ಚಿಗುರಿನ ಕನಸು",
+    "poet": "Kambara",
+    "originalText": "ಮಣ್ಣಿನೊಳಗಿನ ಚಿಗುರಿನಂತೆ\nಮನದ ಆಸೆ ಮೊಳೆಯುವುದು\nಕಷ್ಟದ ಗಾಳಿಯ ಹೊಡೆತದಲ್ಲೂ\nಭರವಸೆಯ ದಾರಿ ಉಳಿಯುವುದು",
+    "bhavartha": "Dreams survive even through hardships.",
+    "difficultWords": {
+      "ಚಿಗುರು": "Sprout",
+      "ಮೊಳೆಯುವುದು": "Grow",
+      "ಹೊಡೆತ": "Strike"
+    }
+  },
+
+  {
+    "title": "ಪ್ರಕೃತಿಯ ಮೌನ",
+    "poet": "Kuvempu",
+    "originalText": "ಪ್ರಕೃತಿಯ ಮೌನದ ತಂಪಿನಲಿ\nಮನದ ದಣಿವು ಕರಗಿಬಂತು\nಗಾಳಿಯ ಮೃದುವಾದ ಸ್ಪರ್ಶದಲಿ\nಜೀವನ ಹೊಸದಾಗಿ ತೋರಿತು",
+    "bhavartha": "Nature refreshes the human soul.",
+    "difficultWords": {
+      "ದಣಿವು": "Fatigue",
+      "ಮೃದುವು": "Softness",
+      "ಸ್ಪರ್ಶ": "Touch"
+    }
+  },
+
+  {
+    "title": "ನೋವಿನ ಮಳೆ",
+    "poet": "Ananthamurthy",
+    "originalText": "ನೋವಿನ ಮಳೆಯ ಸುರಿಮಳೆಯಲಿ\nಮನದ ಬಲ ಹೆಚ್ಚಾಗುವುದು\nಕಷ್ಟದ ಕಲ್ಲಿನ ಹಾದಿಯಲಿ\nಮಾನವತ್ವ ಉಳಿಯುವುದು",
+    "bhavartha": "Pain strengthens human character.",
+    "difficultWords": {
+      "ಸುರಿಮಳೆ": "Heavy rain",
+      "ಬಲ": "Strength",
+      "ಹಾದಿ": "Path"
+    }
+  },
+
+  {
+    "title": "ಕನಸಿನ ಹಕ್ಕಿ",
+    "poet": "Karnad",
+    "originalText": "ಕನಸಿನ ಹಕ್ಕಿಯ ಹಾರಾಟದಿ\nಆಕಾಶ ಹತ್ತಿರವಾಗುವುದು\nಭಯದ ಕತ್ತಲು ದೂರಾದಾಗ\nಹೊಸ ಬದುಕು ಶುರುವಾಗುವುದು",
+    "bhavartha": "Fearlessness helps dreams soar.",
+    "difficultWords": {
+      "ಹಾರಾಟ": "Flight",
+      "ದೂರಾದಾಗ": "When removed",
+      "ಶುರು": "Beginning"
+    }
+  },
+
+  {
+    "title": "ಸಾಹಿತ್ಯದ ಬೆಳಕು",
+    "poet": "D.V. Gundappa",
+    "originalText": "ಅಕ್ಷರಗಳ ಬೆಳಕಿನೊಳಗೆ\nಮಾನವ ಮನದ ಮರ್ಮವಿದೆ\nಕಾವ್ಯದ ಮಧುರ ಗಾನದಲ್ಲಿ\nಜೀವನ ಸತ್ಯ ಅಡಗಿದೆ",
+    "bhavartha": "Literature reflects deep truths of life.",
+    "difficultWords": {
+      "ಮರ್ಮ": "Deep secret",
+      "ಮಧುರ": "Sweet",
+      "ಅಡಗಿದೆ": "Hidden"
+    }
+  },
+
+  {
+    "title": "ಹೂವಿನ ಪರಿಮಳ",
+    "poet": "Bendre",
+    "originalText": "ಹೂವಿನ ಪರಿಮಳ ಹರಿದಾಗ\nಮನದ ನೋವು ಮರೆವಾಗುವುದು\nಪ್ರೀತಿಯ ಮೌನದ ನೆರಳಿನಲ್ಲಿ\nಜೀವನ ಸುಂದರವಾಗುವುದು",
+    "bhavartha": "Love and beauty heal emotional pain.",
+    "difficultWords": {
+      "ಪರಿಮಳ": "Fragrance",
+      "ನೆರಳು": "Shade",
+      "ಮರೆವಾಗು": "Disappear"
+    }
+  },
+
+  {
+    "title": "ಕಾಲದ ನದಿ",
+    "poet": "Kuvempu",
+    "originalText": "ಕಾಲದ ನದಿಯ ಹರಿವಿನಲ್ಲಿ\nಯುಗಗಳ ಕಥೆ ಸಾಗುವುದು\nಮಾನವ ಕನಸಿನ ಮರಳಿನ ಮೇಲೆ\nಆಶೆಯ ಗುರುತು ಉಳಿಯುವುದು",
+    "bhavartha": "Time flows endlessly while hope leaves lasting marks.",
+    "difficultWords": {
+      "ಯುಗ": "Era",
+      "ಮರಳು": "Sand",
+      "ಗುರುತು": "Mark"
+    }
+  },
+
+  {
+    "title": "ಆಶೆಯ ಹೊನಲು",
+    "poet": "Kambara",
+    "originalText": "ಆಶೆಯ ಹೊನಲು ಹರಿದಾಗ\nಕತ್ತಲ ದಾರಿ ಬೆಳಗುವುದು\nಮನದ ಮೌನದ ಸಾಗರದಲಿ\nಹೊಸ ಬದುಕು ಮೂಡಿಬರುವುದು",
+    "bhavartha": "Hope illuminates difficult paths.",
+    "difficultWords": {
+      "ಹೊನಲು": "Flow",
+      "ಬೆಳಗುವುದು": "Illuminate",
+      "ಸಾಗರ": "Ocean"
+    }
+  }
+
+]
+
